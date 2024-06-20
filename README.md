@@ -19,7 +19,7 @@ The Reward System is a Node.js-based application designed to manage and distribu
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/Thebert98/reward_system.git)
     cd reward_system
     ```
 
@@ -68,10 +68,8 @@ The application configuration is managed through environment variables. Update t
 
 ### Environment Variables
 
-- `PORT`: The port on which the application will run (default: 3000).
 - `REDIS_HOST`: The Redis server hostname.
 - `REDIS_PORT`: The Redis server port.
-- `REDIS_PASSWORD`: The password for Redis (if applicable).
 
 ## Endpoints
 
