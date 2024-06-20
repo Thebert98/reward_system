@@ -71,6 +71,10 @@ The application configuration is managed through environment variables. Update t
 - `REDIS_HOST`: The Redis server hostname.
 - `REDIS_PORT`: The Redis server port.
 
+Default Values:
+REDIS_HOST=redis
+REDIS_PORT=6379
+
 ## Endpoints
 
 ### Base URL
